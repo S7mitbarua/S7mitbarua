@@ -8,7 +8,7 @@ I am Sumit, who is a Climate Aficionado and User Experience (UX) Designer with a
 
 - 🌱 I’m currently learning **Bash, C, C++, Java, Ruby, & Perl to be a better Ethical Hacker**
 
-- 👨‍💻 All of my projects are available at [https://www.sumitbaruadesign.com/](https://www.sumitbaruadesign.com/)
+- 👨‍💻 All of my User Experience Design (UXD) projects are available at [https://www.sumitbaruadesign.com/](https://www.sumitbaruadesign.com/)
 
 - 📝 I regularly write articles on [https://medium.com/@sumitbarua](https://medium.com/@sumitbarua)
 
