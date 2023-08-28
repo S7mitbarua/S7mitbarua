@@ -16,7 +16,7 @@ I am Sumit, who is a Climate Aficionado and User Experience (UX) Designer with a
 
 - 📫 How to reach me **https://www.linkedin.com/in/sumitbarua/**
 
-- ⚡ Fun fact **Freefall skydived 150th times, a Passionate digital artist**
+- ⚡ Fun fact **Freefall skydived 180th times, a Passionate digital artist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
