@@ -19,7 +19,6 @@ I am Sumit, who is a Climate Aficionado and User Experience (UX) Designer with a
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://medium.com/@sumitbarua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sumitbarua" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@baruasumit2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@baruasumit2021" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
