@@ -1,5 +1,5 @@
 <h3 align="center"> 
-👋 Hi There! I am Sumit, a glorified Health Data Analyst & UX Designer
+<left>👋 Hi There! I am Sumit, a glorified Health Data Analyst & UX Designer</left>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s7mitbarua&label=Profile%20views&color=0e75b6&style=flat" alt="s7mitbarua" /> </p>
