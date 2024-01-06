@@ -27,8 +27,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://bmc.link/baruasumitM"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/baruasumitM" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s7mitbarua&show_icons=true&locale=en&layout=compact" alt="s7mitbarua" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=S7mitbarua&show_icons=true&locale=en&layout=compact" alt="S7mitbarua" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s7mitbarua&show_icons=true&locale=en" alt="s7mitbarua" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=S7mitbarua&show_icons=true&locale=en" alt="S7mitbarua" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s7mitbarua&" alt="s7mitbarua" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=S7mitbarua&" alt="S7mitbarua" /></p>
