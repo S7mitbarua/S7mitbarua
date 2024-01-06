@@ -1,5 +1,5 @@
 <h3 align="center"> 
-I am Sumit, a Climate Aficionado and User Experience (UX) Designer, blending my expertise in Health Data Analysis. With a fervor for addressing future climate change challenges and advocating for accessibility in digital health, I strive to create impactful and user-centric solutions. As a Health Data Analyst and UX Designer, I leverage my skills to contribute meaningfully at the intersection of data and design.
+I'm Sumit, a Climate Aficionado, UX Designer, and Health Data Analyst. Passionate about addressing climate challenges and promoting digital health accessibility, I create impactful, user-centric solutions at the intersection of data and design.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s7mitbarua&label=Profile%20views&color=0e75b6&style=flat" alt="s7mitbarua" /> </p>
