@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working on [Boston Heat Pump Accelerator](https://bhpa.vercel.app/public)
 
-- 🌱 I’m currently learning **Bash, C, C++, Java, Ruby, & Perl to be a better Ethical Hacker**
-
-- 👨‍💻 All of my User Experience Design (UXD) projects are available at [https://www.sumitbaruadesign.com/](https://www.sumitbaruadesign.com/)
+- 🌱 I’m currently upskilling my data science knowledge
 
 - 📝 I regularly write articles on [https://medium.com/@sumitbarua](https://medium.com/@sumitbarua)
 
