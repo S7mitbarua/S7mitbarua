@@ -1,5 +1,5 @@
 <h3 align="left"> 
-<left>👋 Hi There! I am Sumit, a glorified Health Data Analyst & UX Designer.</left>
+<left>👋 Hi There! I am Sumit, a glorified Health Data Analyst, User Experience Designer, and a current Clinical Social Work (MSW) student.</left>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s7mitbarua&label=Profile%20views&color=0e75b6&style=flat" alt="s7mitbarua" /> </p>
@@ -10,9 +10,9 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sumitbarua](https://medium.com/@sumitbarua)
 
-- 💬 Ask me about **How did I transition my career from Health Informatics to User Experience Design.**
+- 💬 Ask me about **How did I transition my career from Health Informatics to User Experience Design. Currently upgrading myself as Clinical Social Worker**
 
-- ⚡ Fun facts: **Freefall skydived 180th times, a Passionate digital artist**
+- ⚡ Fun facts: **Freefall skydived 180th times, a Passionate coffee nerds**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
