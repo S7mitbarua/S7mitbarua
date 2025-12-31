@@ -9,7 +9,7 @@
 <ul>
   <li>🔭 I’m currently working on <a href="https://bhpa.vercel.app/public" target="_blank">Boston Heat Pump Accelerator</a></li>
   <li>🌱 I’m upskilling my data science knowledge</li>
-  <li>📝 I regularly write articles on <a href="https://medium.com/@sumitbarua" target="_blank">Medium</a></li>
+  <li>📝 I regularly post mindfulness therapeutic content on instagram <a href="https://www.instagram.com/" target="_blank">Instagram</a></li>
   <li>💬 Ask me about <strong>transitioning from Health Informatics to User Experience Design</strong> and my journey toward becoming a Clinical Social Worker</li>
   <li>⚡ Fun facts: <strong>180+ freefall skydives</strong> and a passionate coffee nerd ☕</li>
 </ul>
