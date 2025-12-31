@@ -7,7 +7,7 @@
 </p>
 
 <ul>
-  <li>🔭 I’m currently working on <a href="https://bhpa.vercel.app/public" target="_blank">Boston Heat Pump Accelerator</a></li>
+  <li>🔭 I have designed the <a href="https://bhpa.vercel.app/public" target="_blank">Boston Heat Pump Accelerator</a></li>
   <li>🌱 I’m upskilling my data science knowledge</li>
   <li>📝 I regularly post mindfulness therapeutic content on <a href="https://www.instagram.com/" target="_blank">Instagram</a></li>
   <li>💬 Ask me about <strong>transitioning from Health Informatics to User Experience Design</strong> and my journey toward becoming a Clinical Social Worker</li>
